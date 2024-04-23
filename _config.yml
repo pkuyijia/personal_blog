@@ -19,8 +19,8 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Jia Yi's personal blog
-email: pkuyijia@gmail.com
-description: 
+email: me@jyi2002.com
+description: Jia Yi's personal blog
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://blog.jyi2002.com/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: pkuyijia
