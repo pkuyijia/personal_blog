@@ -27,7 +27,7 @@ twitter_username: pkuyijia
 github_username:  pkuyijia
 
 # Build settings
-theme: jekyll-theme-lanyon
+theme: minima
 plugins:
   - jekyll-feed
 
